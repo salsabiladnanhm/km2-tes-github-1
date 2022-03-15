@@ -1,2 +1,3 @@
-bangun tidur
-tidur lagi
+1. bangun tidur
+2. makan
+3. tidur lagi
